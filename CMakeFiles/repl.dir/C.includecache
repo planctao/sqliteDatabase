@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sqlite_db/lib.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sys/types.h
+-
+
+/home/sqlite_db/table.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sys/types.h
+-
+lib.h
+/home/sqlite_db/lib.h
+

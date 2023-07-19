@@ -1,0 +1,3 @@
+/home/sqlite_db/CMakeFiles/rebuild_cache.dir
+/home/sqlite_db/CMakeFiles/edit_cache.dir
+/home/sqlite_db/CMakeFiles/repl.dir

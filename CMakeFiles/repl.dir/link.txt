@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/repl.dir/execute.c.o CMakeFiles/repl.dir/repl.c.o CMakeFiles/repl.dir/row.c.o CMakeFiles/repl.dir/table.c.o  -o repl 

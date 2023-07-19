@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/Demo.dir/execute.c.o CMakeFiles/Demo.dir/repl.c.o CMakeFiles/Demo.dir/row.c.o CMakeFiles/Demo.dir/table.c.o  -o Demo 
